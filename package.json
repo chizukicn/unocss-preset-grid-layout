@@ -34,7 +34,7 @@
     "@curev/eslint-config": "^0.2.2",
     "@vitest/coverage-v8": "^0.34.6",
     "changelogen": "^0.5.5",
-    "eslint": "^8.56.0",
+    "eslint": "^9.2.0",
     "eslint-formatter-mo": "^1.2.0",
     "lint-staged": "^13.3.0",
     "simple-git-hooks": "^2.9.0",
