@@ -36,7 +36,7 @@
     "changelogen": "^0.5.5",
     "eslint": "^8.56.0",
     "eslint-formatter-mo": "^1.2.0",
-    "lint-staged": "^13.3.0",
+    "lint-staged": "^15.2.10",
     "simple-git-hooks": "^2.9.0",
     "typescript": "^5.3.3",
     "unbuild": "^1.2.1",
